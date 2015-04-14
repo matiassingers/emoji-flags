@@ -1,6 +1,6 @@
 {
   "name": "emoji-flags",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "return emoji flag symbol for country code",
   "main": "index.js",
   "scripts": {
