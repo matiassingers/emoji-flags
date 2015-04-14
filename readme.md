@@ -15,6 +15,7 @@ var emojiFlags = require('emoji-flags');
 
 // single country lookup by code
 emojiFlags.countryCode('DK');
+// => { "code": "DK", "emoji": "🇩🇰", ... }
 
 // entire dataset
 emojiFlags.data;
@@ -71,7 +72,7 @@ The module exposes a bunch of simple getter methods:
 - `names` - returns an array of all country names
 - `unicodes` - returns an array of all emojis reprensented as unicode
 
-Getter methods for all country codes, like:
+Getter methods for all country codes:
 ```js
 emojiFlags.GB;
 // => {
