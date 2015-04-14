@@ -1,0 +1,46 @@
+{
+  "name": "emoji-flags",
+  "version": "0.1.0",
+  "description": "return emoji flag symbol for country code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bin": {
+    "emoji-flags": "cli.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "emoji",
+    "countries",
+    "flag",
+    "country code",
+    "emoji flag",
+    "country flag",
+    "ISO 3166-1",
+    "ISO 3166-1-alpha-2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matiassingers/emoji-flags"
+  },
+  "author": "Matias Singers <mail@matiassingers.com> (http://mts.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matiassingers/emoji-flags/issues"
+  },
+  "homepage": "https://github.com/matiassingers/emoji-flags",
+  "dependencies": {
+    "columnify": "1.5.1",
+    "lodash.find": "3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "2.2.4"
+  }
+}
