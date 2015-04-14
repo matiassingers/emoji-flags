@@ -1,9 +1,6 @@
 # emoji-flags [![Build Status](http://img.shields.io/travis/matiassingers/emoji-flags.svg?style=flat-square)](https://travis-ci.org/matiassingers/emoji-flags) [![Dependency Status](http://img.shields.io/gemnasium/matiassingers/emoji-flags.svg?style=flat-square)](https://gemnasium.com/matiassingers/emoji-flags)
 > return emoji flag symbol for country code
 
-![screenshot](screenshot.png)
-
-
 ## Install
 
 ```sh
