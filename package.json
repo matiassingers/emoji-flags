@@ -39,9 +39,9 @@
   "homepage": "https://github.com/matiassingers/emoji-flags",
   "dependencies": {
     "columnify": "1.5.1",
-    "lodash.find": "3.2.0"
+    "lodash.find": "3.2.1"
   },
   "devDependencies": {
-    "mocha": "2.2.4"
+    "mocha": "2.2.5"
   }
 }
