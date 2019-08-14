@@ -1954,7 +1954,8 @@
         "emoji": "🇽🇰",
         "unicode": "U+1F1FD U+1F1F0",
         "name": "Kosovo",
-        "title": "flag for Kosovo"
+        "title": "flag for Kosovo",
+        "dialCode": "+383"
     },
     {
         "code": "YE",
