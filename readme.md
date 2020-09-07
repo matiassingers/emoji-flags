@@ -18,7 +18,7 @@ emojiFlags.countryCode('DK');
 // => { "code": "DK", "emoji": "🇩🇰", ... }
 
 // entire dataset
-emojiFlags.data;
+emojiFlags.data();
 ```
 
 
